@@ -1,0 +1,4 @@
+outputs/
+__pycache__/
+*.pyc
+data/videos/PMG-GX010156.mp4
